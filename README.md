@@ -35,7 +35,7 @@ There is no significant membership duration differnece between - Affluence (rang
                                                                - Gender (2.3-2.2 for flexible; 4.8 - 4.5 for standard)
                                                                
 Interesting insights - Will/has move to pandas by tomorrow:
-                                                       - for people left membership- there is no change in AFFLUENCE over year
+## for people left membership- there is no change in AFFLUENCE over year
                                                        - for people still in memebership - there is trend by affluence, gender membership status amond different years. However there is no change if we filter the data by memebership status >12 month.
                                                        - younger people are more willing to join club in recent year. we can target promotion here 
                                                        
