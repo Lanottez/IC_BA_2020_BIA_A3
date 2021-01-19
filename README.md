@@ -1,9 +1,6 @@
 # IC_BA_2020_BIA_A3
-# Add your idea here !
 
-# 19-01-2021
-
-## Meeting Note
+## 19-01-2021 Meeting Note
 Q2:  What happened when the price was increased?
                                                      
 How affected: - membership type
