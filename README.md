@@ -15,7 +15,8 @@ Membership change per club  // clubs number plot
                                                         
 How affected: - membership type
               - social class  
-              - gender  - age - 
+              - gender  
+              - age 
 
 Any trend in visitation during last months before gym : - peak times
                                                         - freq per month
