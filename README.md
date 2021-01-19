@@ -39,4 +39,6 @@ Interesting insights - Will/has move to pandas by tomorrow:
                                                        - for people still in memebership - there is trend by affluence, gender membership status amond different years. However there is no change if we filter the data by memebership status >12 month.
                                                        - younger people are more willing to join club in recent year. we can target promotion here 
                                                        
+                                                       - In general we see a reduction in number of memebers that left gym in 2016 compare wil 2015, and increase in numbers of members that join gym in 2016 compare with 2015. This might due to new gym opening - further investigation required
+                                                       
                                                                                                  
