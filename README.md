@@ -26,5 +26,5 @@ Qian:
                                                         - freq per month
  
 Mary: 
-*Churn rate over time
-*Membership change per club  // clubs number plot
+* Churn rate over time
+* Membership change per club  // clubs number plot
