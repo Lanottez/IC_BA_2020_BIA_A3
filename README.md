@@ -9,8 +9,9 @@ Q2:  What happened when the price was increased?
 Revenue plot over time
 Membership over time??
 
-Segmentation:
-Membership change per club  // clubs number plot
+
+
+
 
                                                         
 How affected: - membership type
@@ -23,3 +24,7 @@ Qian:
 * What happened when the price was increased, revenue plot over time
 * Any trend in visitation during last months before gym : - peak times
                                                         - freq per month
+ 
+Mary: 
+*Churn rate over time
+*Membership change per club  // clubs number plot
