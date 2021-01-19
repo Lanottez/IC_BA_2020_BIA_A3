@@ -5,15 +5,7 @@
 
 
 Q2:  What happened when the price was increased?
-
-Revenue plot over time
-Membership over time??
-
-
-
-
-
-                                                        
+                                                     
 How affected: - membership type
               - social class  
               - gender  
@@ -27,4 +19,5 @@ Qian:
  
 Mary: 
 * Churn rate over time
-* Membership change per club  // clubs number plot
+* Membership over time??
+* Membership change per club  // clubs number plot 
