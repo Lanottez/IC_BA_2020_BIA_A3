@@ -18,5 +18,8 @@ How affected: - membership type
               - gender  
               - age 
 
-Any trend in visitation during last months before gym : - peak times
+
+Qian:
+* What happened when the price was increased, revenue plot over time
+* Any trend in visitation during last months before gym : - peak times
                                                         - freq per month
