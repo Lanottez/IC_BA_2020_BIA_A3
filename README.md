@@ -40,3 +40,10 @@ How affected: - membership type
 * In general we see a reduction in number of memebers that left gym in 2016 compare wil 2015, and increase in numbers of members that join gym in 2016 compare with 2015. This might due to new gym opening - further investigation required
                                                        
                                                                                                  
+### Jiaqi:
+* Uploaded jupyter file of my code:
+* The first two graphs is an initial overview of OC&Gym's customer segment(maybe can put in intro of presentation?)
+* Graph 1: Affluence segment and membership type; B is the affluence group with highest members; Most members have Standard memberships(True across all affluence classes)
+* Graph 2: Gender and age: Calculated age of each member and split into age-groups, most customers are from the age-group 30-39; there is relatively higher number of male members across all age groups
+* Graph 3: Number of cancellations overtime: There is a sharp increase in number of cancellations just before the price increase in 01/01/2016, this may be due to OC&Gym's policy that standard customers, they are given the option of leaving before the pay rise. However this increase in cancellation is not long-term
+* I joined the data from both visitation datasets with the subscriptions dataset together into one dataframe
