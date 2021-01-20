@@ -16,12 +16,13 @@ How affected: - membership type
 * freq per month
 
 ###  Mary: 
-## Churn rate over time DONE 
+#### Churn rate over time DONE 
 Based on Jiaqi's analysis I plotted the churn rate over time and the insights are those that Jiaqi mentions on  __Graph 3__
-## Membership over time DONE
+#### Membership over time DONE
 The membership growth over time seems to move around an average between 2012 and 2015, while there is a steep increase in late 2015 (maybe because of the reduction of total members??) and then it decreases again quickly. It seems that there is no longterm impact in the membership growth
-## I explore now:
+#### I explore now:
 * Membership change per club  // clubs - members number over time
+* Seasonality
 
 
 ### Arianna:
