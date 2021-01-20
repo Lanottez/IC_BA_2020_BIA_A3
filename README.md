@@ -16,9 +16,13 @@ How affected: - membership type
 * freq per month
 
 ###  Mary: 
-* Churn rate over time  
-* Membership over time??  
-* Membership change per club  // clubs number plot 
+#### Churn rate over time DONE 
+Based on Jiaqi's analysis I plotted the churn rate over time and the insights are those that Jiaqi mentions on  __Graph 3__
+#### Membership over time DONE
+The membership growth over time seems to move around an average between 2012 and 2015, while there is a steep increase in late 2015 (maybe because of the reduction of total members??) and then it decreases again quickly. It seems that there is no longterm impact in the membership growth
+#### I explore now:
+* Membership change per club  // clubs - members number over time
+* Seasonality
 
 
 ### Arianna:
@@ -43,7 +47,10 @@ How affected: - membership type
 ### Jiaqi:
 * Uploaded jupyter file of my code:
 * The first two graphs is an initial overview of OC&Gym's customer segment(maybe can put in intro of presentation?)
-* Graph 1: Affluence segment and membership type; B is the affluence group with highest members; Most members have Standard memberships(True across all affluence classes)
-* Graph 2: Gender and age: Calculated age of each member and split into age-groups, most customers are from the age-group 30-39; there is relatively higher number of male members across all age groups
-* Graph 3: Number of cancellations overtime: There is a sharp increase in number of cancellations just before the price increase in 01/01/2016, this may be due to OC&Gym's policy that  for standard customers, they are given the option of leaving before the price rise. However this increase in cancellation is not long-term
+* __Graph 1__: Affluence segment and membership type; B is the affluence group with highest members; Most members have Standard memberships(True across all affluence classes)
+* __Graph 2__: Gender and age: Calculated age of each member and split into age-groups, most customers are from the age-group 30-39; there is relatively higher number of male members across all age groups
+
+#### Graph 3 and 4 may be relevant to __Q2:What happened when the price was increased?__
+* __Graph 3__: cancellations percentages(Monthly) : There is a sharp increase in percentage of cancellations just before the price increase in 01/01/2016, this may be due to OC&Gym's policy that  for standard customers, they are given the option of leaving before the price rise. However this increase in cancellation is not long-term. The percentage cancellations overtime seem to have seasonality trends
+* __Graph 4__: New membership percentages(monthly) : There is a small decrease in percentage of new membership just after the price increase, however the decrease is not significant, thus the price increase seem to have small effect on percentage of monthly new memberships.
 * I joined the data from both visitation datasets with the subscriptions dataset together into one dataframe
