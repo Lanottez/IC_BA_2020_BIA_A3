@@ -62,3 +62,14 @@ The membership growth over time seems to move around an average between 2012 and
 * __Graph 3__: cancellations percentages(Monthly) : There is a sharp increase in percentage of cancellations just before the price increase in 01/01/2016, this may be due to OC&Gym's policy that  for standard customers, they are given the option of leaving before the price rise. However this increase in cancellation is not long-term. The percentage cancellations overtime seem to have seasonality trends
 * __Graph 4__: New membership percentages(monthly) : There is a small decrease in percentage of new membership just after the price increase, however the decrease is not significant, thus the price increase seem to have small effect on percentage of monthly new memberships.
 * I joined the data from both visitation datasets with the subscriptions dataset together into one dataframe
+
+
+### Jiaqi & Jiaxuan：
+### Hi! We have uploaded a pdf file in the list.
+
+This pdf file includes：
+* Basic industrial backgrounds for the fitness industry and the problems that many gyms have been facing now. 
+* Common and maningful KPIs for this industry that can be used in our analysis. We can choose some of them based on our data results.
+* Potential OKRs that may be used to measure our analysis. This is mentioned in our project requirements. We think this part can be combined with the benchmarks from other competitors, using the competitors' data to set up our own OKRs. Here we include two feasible companies and the first one seems to be a better choice since it has more information with the data in their reports. 
+
+If you guys have any thought for deeper researches or wants to include extra perspectives, we can focus on specific parts after considering our analysis results.
