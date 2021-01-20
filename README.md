@@ -45,5 +45,7 @@ How affected: - membership type
 * The first two graphs is an initial overview of OC&Gym's customer segment(maybe can put in intro of presentation?)
 * Graph 1: Affluence segment and membership type; B is the affluence group with highest members; Most members have Standard memberships(True across all affluence classes)
 * Graph 2: Gender and age: Calculated age of each member and split into age-groups, most customers are from the age-group 30-39; there is relatively higher number of male members across all age groups
-* Graph 3: Number of cancellations overtime: There is a sharp increase in number of cancellations just before the price increase in 01/01/2016, this may be due to OC&Gym's policy that  for standard customers, they are given the option of leaving before the price rise. However this increase in cancellation is not long-term
+updated:
+* Graph 3: cancellations percentages(Monthly) : There is a sharp increase in percentage of cancellations just before the price increase in 01/01/2016, this may be due to OC&Gym's policy that  for standard customers, they are given the option of leaving before the price rise. However this increase in cancellation is not long-term. The percentage cancellations overtime seem to have seasonality trends
+* Graph 4: New membership percentages(monthly) : There is a small decrease in percentage of new membership just after the price increase, however the decrease is not significant, thus the price increase seem to have small effect on percentage of monthly new memberships.
 * I joined the data from both visitation datasets with the subscriptions dataset together into one dataframe
