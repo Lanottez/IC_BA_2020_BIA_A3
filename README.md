@@ -1,5 +1,9 @@
 # IC_BA_2020_BIA_A3
 
+## 20-01-2021
+### Qian:
+
+
 ## 19-01-2021
 Q2:  What happened when the price was increased?
                                                      
