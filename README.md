@@ -65,7 +65,7 @@ The membership growth over time seems to move around an average between 2012 and
 
 
 ### Jiaqi & Jiaxuan：
-### Hi! We have uploaded a pdf file in the list.
+#### Hi! We have uploaded a pdf file in the list.
 
 This pdf file includes：
 * Basic industrial backgrounds for the fitness industry and the problems that many gyms have been facing now. 
