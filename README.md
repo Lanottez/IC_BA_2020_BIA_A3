@@ -1,10 +1,5 @@
 # IC_BA_2020_BIA_A3
 
-## 20-01-2021
-### Qian:
-
-
-## 19-01-2021
 Q2:  What happened when the price was increased?
                                                      
 How affected: - membership type
@@ -18,6 +13,11 @@ How affected: - membership type
 #### Any trend in visitation during last months before gym : 
 * peak times  
 * freq per month
+#### What I have found so far
+* Graph 1: if I draw the number of membership versus time, we could find that the number of membership has been increasing constantly over time, although it dropped in 2016 while the price increased
+* Graph 2: if I draw the number of membership seperately according to the type of membership, we could find the the drop of customers was primarily caused by drop of standard customer. The reason could be that most members have standard memberships, as what is found by Jiaqi
+* Graph 3 and Graph 4: the membership of most customers only last less than 3 months, but the group who contribute the most to the revenue are those whose memberships last between 1 year and 3 months 
+
 
 ###  Mary: 
 #### Churn rate over time DONE 
