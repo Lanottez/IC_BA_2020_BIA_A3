@@ -14,10 +14,13 @@ How affected: - membership type
 * peak times  
 * freq per month
 #### What I have found so far
-![image](Screenshots\Qian_Zhang\Chart_1.png)
-* Graph 1: if I draw the number of membership versus time, we could find that the number of membership has been increasing constantly over time, although it dropped in 2016 while the price increased
-* Graph 2: if I draw the number of membership seperately according to the type of membership, we could find the the drop of customers was primarily caused by drop of standard customer. The reason could be that most members have standard memberships, as what is found by Jiaqi
-* Graph 3 and Graph 4: the membership of most customers only last less than 3 months, but the group who contribute the most to the revenue are those whose memberships last between 1 year and 3 months 
+<img src="Screenshots/Qian_Zhang/Chart_1.png" alt="drawing" width="200"/>
+* Chart 1: if I draw the number of membership versus time, we could find that the number of membership has been increasing constantly over time, although it dropped in 2016 while the price increased
+<img src="Screenshots/Qian_Zhang/Chart_2.png" alt="drawing" width="200"/>
+* Chart 2: if I draw the number of membership seperately according to the type of membership, we could find the the drop of customers was primarily caused by drop of standard customer. The reason could be that most members have standard memberships, as what is found by Jiaqi
+<img src="Screenshots/Qian_Zhang/Chart_3.png" alt="drawing" width="200"/>
+<img src="Screenshots/Qian_Zhang/Chart_4.png" alt="drawing" width="200"/>
+* Chart 3(Above) and Chart 4(Below): the membership of most customers only last less than 3 months, but the group who contribute the most to the revenue are those whose memberships last between 1 year and 3 months 
 
 
 ###  Mary: 
