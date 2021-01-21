@@ -1,11 +1,22 @@
 # IC_BA_2020_BIA_A3
 
-Q2:  What happened when the price was increased?
-                                                     
-How affected: - membership type
-              - social class  
-              - gender  
-              - age 
+##Tasks remaining            
+
+Plot total revenue over time and its increase rate Qian
+KPI: Revenue per Memeber Qian
+
+Seasonalty patterns Mary
+
+Find a benchmark for budget gyms in London ???
+
+###What other factors? (age, social class, sex) 
+Contribution to revenue Qiam
+Churn rate over years Mary
+Per club break down Mary 
+Growth rate over years Jiaxuan
+Behaviour change over years: type of memebership, duration of membership, visiting in peak/off peak (that may be challenging) Jiaqi
+ 
+See the visitation pattern in general as a possible predictor for cacellation, as well as description (frequency and peak/off peak)
 
 
 ### Qian:
