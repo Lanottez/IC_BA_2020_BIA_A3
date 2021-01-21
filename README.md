@@ -3,7 +3,7 @@
 ## Tasks remaining            
 
 * Plot total revenue over time and its increase rate Qian
-* KPI: Revenue per Memeber Qian
+* KPI: Revenue per Member Qian
 * Seasonalty patterns Mary
 
 * Find a benchmark for budget gyms in London ???
