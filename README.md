@@ -2,21 +2,20 @@
 
 ##Tasks remaining            
 
-Plot total revenue over time and its increase rate Qian
-KPI: Revenue per Memeber Qian
+* Plot total revenue over time and its increase rate Qian
+* KPI: Revenue per Memeber Qian
+* Seasonalty patterns Mary
 
-Seasonalty patterns Mary
-
-Find a benchmark for budget gyms in London ???
+* Find a benchmark for budget gyms in London ???
 
 ###What other factors? (age, social class, sex) 
-Contribution to revenue Qiam
-Churn rate over years Mary
-Per club break down Mary 
-Growth rate over years Jiaxuan
-Behaviour change over years: type of memebership, duration of membership, visiting in peak/off peak (that may be challenging) Jiaqi
+* Contribution to revenue Qiam
+* Churn rate over years Mary
+* Per club break down Mary 
+* Growth rate over years Jiaxuan
+* Behaviour change over years: type of memebership, duration of membership, visiting in peak/off peak (that may be challenging) Jiaqi
  
-See the visitation pattern in general as a possible predictor for cacellation, as well as description (frequency and peak/off peak)
+* See the visitation pattern in general as a possible predictor for cacellation, as well as description (frequency and peak/off peak)
 
 
 ### Qian:
