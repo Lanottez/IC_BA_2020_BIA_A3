@@ -9,11 +9,11 @@
 * Find a benchmark for budget gyms in London ???
 
 ### What other factors? (age, social class, sex) 
-* Contribution to revenue Qiam
-* Churn rate over years Mary
-* Per club break down Mary 
+* Contribution to revenue Qian
 * Growth rate over years Jiaxuan
 * Behaviour change over years: type of memebership, duration of membership, visiting in peak/off peak (that may be challenging) Jiaqi
+* Churn rate over years Mary
+* Per club break down Mary 
  
 * See the visitation pattern in general as a possible predictor for cacellation, as well as description (frequency and peak/off peak)
 
