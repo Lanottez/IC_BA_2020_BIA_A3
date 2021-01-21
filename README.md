@@ -1,6 +1,6 @@
 # IC_BA_2020_BIA_A3
 
-##Tasks remaining            
+## Tasks remaining            
 
 * Plot total revenue over time and its increase rate Qian
 * KPI: Revenue per Memeber Qian
@@ -8,7 +8,7 @@
 
 * Find a benchmark for budget gyms in London ???
 
-###What other factors? (age, social class, sex) 
+### What other factors? (age, social class, sex) 
 * Contribution to revenue Qiam
 * Churn rate over years Mary
 * Per club break down Mary 
