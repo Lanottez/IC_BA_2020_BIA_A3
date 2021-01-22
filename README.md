@@ -49,7 +49,7 @@ The membership growth over time seems to move around an average between 2012 and
 * clubs - members number over time -> Made the preliminary work but because of the number of the clubs (32) may we need to find a smarter way to inspect all of them
 #### Churn rates er group
 * per gender
-
+<img title="gender churn" src="Screenshots/Mary/gender_churn.png" alt="drawing" width="200"/>
 * per affluence
 * per subscrition type
 
