@@ -7,7 +7,7 @@
 * Seasonality patterns Mary
 
 
-* breakdown of our membership per type percentage over time
+* breakdown of our membership per type percentage over time Arianna-> transfer the most important to python
 * age groups
 * Find a benchmark for budget gyms in London ???
 
