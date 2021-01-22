@@ -82,6 +82,14 @@ The membership growth over time seems to move around an average between 2012 and
 * __Graph 4__: New membership percentages(monthly) : There is a small decrease in percentage of new membership just after the price increase, however the decrease is not significant, thus the price increase seem to have small effect on percentage of monthly new memberships.
 * I joined the data from both visitation datasets with the subscriptions dataset together into one dataframe
 
+### Jiaxuan:
+* Considered the membership growth rate over the year from the perspective of affluence, the oldest five clubs, Gender, Subscription Type
+* Plot graphs for each factor for both the trend of total number of members and growth rate.
+* Most factors have very similar trends for different groups inside.
+* For the affluence graph, we can see that the growth rate of group C2 is very sensitive to the trend. It experienced the most rapid drop in 2015 and then rebounded in a fastest speed with the largest growth rate on the peak. This can be an interesting part to discuss.
+
+#### Still working on the age group. Seems to be problematic at this time.
+
 
 ### Jiaqi & Jiaxuan：
 #### Hi! We have uploaded a pdf file in the list.
