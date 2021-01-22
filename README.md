@@ -1,12 +1,19 @@
 # IC_BA_2020_BIA_A3
 
-## Tasks remaining            
+## To Do           
 
 * Plot total revenue over time and its increase rate Qian
 * KPI: Revenue per Member Qian
 * Seasonality patterns Mary
 
+
+* breakdown of our membership per type percentage over time
+* age groups
 * Find a benchmark for budget gyms in London ???
+
+* start building the report / hypothesis / insights
+
+* Question 5 about prediction?
 
 ### What other factors? (age, social class, sex) 
 * Contribution to revenue Qian
@@ -49,14 +56,9 @@ The membership growth over time seems to move around an average between 2012 and
 * clubs - members number over time -> Made the preliminary work but because of the number of the clubs (32) may we need to find a smarter way to inspect all of them
 #### Churn rates er group
 * per gender
-<img title="gender churn" src="Screenshots/Mary/gender_churn.png" alt="drawing" width="200"/>
 * per affluence
 * per subscrition type
-
-
-
-#### To do 
-* Seasonality
+for the plots please check my branch folder screenshots
 
 
 ### Arianna:
