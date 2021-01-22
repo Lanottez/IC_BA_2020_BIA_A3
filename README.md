@@ -18,9 +18,8 @@
 ### What other factors? (age, social class, sex) 
 * Contribution to revenue Qian
 * Growth rate over years Jiaxuan
-* Behaviour change over years: type of memebership, duration of membership, visiting in peak/off peak (that may be challenging) Jiaqi
+* Behaviour change over years: type of memebership, duration of membership, visiting in peak/off peak (that may be challenging) Jiaqi- Done analysis into visitation times , also changes in % of new memberships 1 month before and after price increase by age, subscription type, affluence - Still need to work on the graphs, Will give update on findings in the meeting this afternoon
 * Churn rate over years Mary DONE except for age and club
- 
 * See the visitation pattern in general as a possible predictor for cacellation, as well as description (frequency and peak/off peak)
 
 
