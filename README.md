@@ -54,11 +54,9 @@ The membership growth over time seems to move around an average between 2012 and
 * Membership change per club from increase -> calculate mean churn for Sep-2015 till Feb-2017, for most clubs similar mean except for 2 who had very lower rates 
   I should although check the difference compared to their means in general and check based on statistics if it is important
 * clubs - members number over time -> Made the preliminary work but because of the number of the clubs (32) may we need to find a smarter way to inspect all of them
-#### Churn rates er group
-* per gender
-* per affluence
-* per subscrition type
-for the plots please check my branch folder screenshots
+#### Churn rates per group DONE ( age not done)
+* per gender,  per affluence,* per subscrition type
+* for the plots please check my branch folder screenshots
 
 
 ### Arianna:
