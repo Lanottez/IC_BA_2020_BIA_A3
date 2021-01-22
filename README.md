@@ -15,6 +15,8 @@
 
 * Question 5 about prediction?
 
+* Survival rates
+
 ### What other factors? (age, social class, sex) 
 * Contribution to revenue Qian
 * Growth rate over years Jiaxuan
