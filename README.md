@@ -90,6 +90,10 @@ The membership growth over time seems to move around an average between 2012 and
 * __Graph 4__: New membership percentages(monthly) : There is a small decrease in percentage of new membership just after the price increase, however the decrease is not significant, thus the price increase seem to have small effect on percentage of monthly new memberships.
 * I joined the data from both visitation datasets with the subscriptions dataset together into one dataframe
 
+__File: Further Analysis AIB__
+* similar to what Arianna has done in powerbi, I had Look at visitation times for customers who leaves within 3 months for different segements: The trends are all similar for the segements where members mainly come during the 3 peak time periods where the morning peak and evening peak is higher across all members. The peak is highest during the morning peak and the client mentioned the workout spaces can get very crowded during peak times; as the midday peak hour has the smallest of visits, potentially the gym can offer for this peak period to encourage more members to come during this time to ease the overcrowdedness in the morning peak. 
+
+
 ### Jiaxuan:
 * Considered the membership growth rate over the year from the perspective of affluence, the oldest five clubs, Gender, Subscription Type
 * Plot graphs for each factor for both the trend of total number of members and growth rate.
