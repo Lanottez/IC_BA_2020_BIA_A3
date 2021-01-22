@@ -15,7 +15,7 @@
 
 * Question 5 about prediction?
 
-* Survival rates
+* Survival rates-> Had a look into survival curve and tried splitting up the survival rates by gender and plotted the survival curve for both genders, it seems that the curve for female is slightly steeper where the survival rate for female is higher, until about 2010-02-01 where the survival rate for males exceed females. I will try to have a look into other member classes and see if there are any new insights.
 
 ### What other factors? (age, social class, sex) 
 * Contribution to revenue Qian
