@@ -4,7 +4,7 @@
 
 * Plot total revenue over time and its increase rate Qian
 * KPI: Revenue per Member Qian
-* Seasonalty patterns Mary
+* Seasonality patterns Mary
 
 * Find a benchmark for budget gyms in London ???
 
@@ -12,8 +12,7 @@
 * Contribution to revenue Qian
 * Growth rate over years Jiaxuan
 * Behaviour change over years: type of memebership, duration of membership, visiting in peak/off peak (that may be challenging) Jiaqi
-* Churn rate over years Mary
-* Per club break down Mary 
+* Churn rate over years Mary DONE except for age and club
  
 * See the visitation pattern in general as a possible predictor for cacellation, as well as description (frequency and peak/off peak)
 
@@ -48,6 +47,14 @@ The membership growth over time seems to move around an average between 2012 and
 * Membership change per club from increase -> calculate mean churn for Sep-2015 till Feb-2017, for most clubs similar mean except for 2 who had very lower rates 
   I should although check the difference compared to their means in general and check based on statistics if it is important
 * clubs - members number over time -> Made the preliminary work but because of the number of the clubs (32) may we need to find a smarter way to inspect all of them
+#### Churn rates er group
+* per gender
+
+* per affluence
+* per subscrition type
+
+
+
 #### To do 
 * Seasonality
 
