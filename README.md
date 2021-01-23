@@ -1,5 +1,12 @@
 # IC_BA_2020_BIA_A3
 
+## Case Question
+###1. How could they improve their pricing strategy
+###2. What happened when the price was increased
+###3. What does this suggest as possible options going forward
+###4. In additional to price, what other factors influence whether a member is going to leave
+###5. Bonus: Given this, to what degree can we predict individual member churn
+
 ## To Do           
 
 * Plot total revenue over time and its increase rate Qian
