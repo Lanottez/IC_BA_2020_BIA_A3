@@ -2,6 +2,7 @@ Case Questions
 2. What happened when the price was increased
 Churn increase, how the revenue affected include those plots and include the analysis in Appendix
 How the price increase afffect different segments  e.g effect on growth rate of new memberships by segments 
+Different pricing for group exercise&revenue - research proof that people attend small studio are more tolerant to higher price
 
 1. How could they improve their pricing strategy
 Mention the duration of different segments and discuss if there is a specific target group
@@ -10,9 +11,11 @@ Different pricing for different clubs or different segments e.g. students/retire
 3. What does this suggest as possible options going forward
 Except for adjustment in pricing maybe adaprt a new model , combining specialised services on a budget to reduce churn etc?
 Maybe some clubs are not so profitable??
+try to reduce churn rate, by giving better deal for people stay more than 12 months, by holding more group exercise, try to target better member to join -- can this link with our segment analysis?
 
 4. In additional to price, what other factors influence whether a member is going to leave
 Gym environment (Visitins hours - peak times etc)? age of the club? 
+Location, which also affect increase in new membership - there is membership boots when new gym ope
 
 5. Bonus: Given this, to what degree can we predict individual n-pea
 
