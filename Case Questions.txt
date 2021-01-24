@@ -4,7 +4,7 @@ Case Questions
 1. How could they improve their pricing strategy
 Mention the duration of different segments and discuss if there is a specific target group
 Different pricing for different clubs or different segments e.g. students/retiree etc
-Price discrimination: the price for different clubs should be flexible, depending on whether the trend of customers social class and the peak/offpeak preference 
+Price discrimination: the price for different clubs should be flexible, depending on the trend of customers social class and the peak/offpeak preference 
 
 2. What happened when the price was increased
 Churn increase, how the revenue affected include those plots and include the analysis in Appendix
