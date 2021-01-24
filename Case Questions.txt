@@ -6,10 +6,10 @@ Mention the duration of different segments and discuss if there is a specific ta
 Different pricing for different clubs or different segments e.g. students/retiree etc
 Price discrimination: the price for different clubs should be flexible, depending on the change of customers social class and the peak/offpeak preference over years 
 
+
 2. What happened when the price was increased
 Churn increase, how the revenue affected include those plots and include the analysis in Appendix
 How the price increase afffect different segments  e.g effect on growth rate of new memberships by segments 
-Different pricing for group exercise&revenue - research proof that people attend small studio are more tolerant to higher price
 
 3. What does this suggest as possible options going forward
 Except for adjustment in pricing maybe adaprt a new model , combining specialised services on a budget to reduce churn etc?
